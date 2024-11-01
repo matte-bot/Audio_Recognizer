@@ -1,0 +1,13 @@
+../Core/Src/modellite.c:449:9:modellite_configure_activations	16	static
+../Core/Src/modellite.c:486:9:modellite_configure_weights	16	static
+../Core/Src/modellite.c:531:9:ai_modellite_get_info	160	static
+../Core/Src/modellite.c:578:9:ai_modellite_get_report	160	static
+../Core/Src/modellite.c:625:10:ai_modellite_get_error	16	static
+../Core/Src/modellite.c:632:10:ai_modellite_create	24	static
+../Core/Src/modellite.c:643:10:ai_modellite_create_and_init	88	static
+../Core/Src/modellite.c:678:12:ai_modellite_inputs_get	16	static
+../Core/Src/modellite.c:689:12:ai_modellite_outputs_get	16	static
+../Core/Src/modellite.c:700:11:ai_modellite_destroy	16	static
+../Core/Src/modellite.c:707:9:ai_modellite_init	24	static
+../Core/Src/modellite.c:724:8:ai_modellite_run	24	static
+../Core/Src/modellite.c:732:8:ai_modellite_forward	16	static
